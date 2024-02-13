@@ -15,4 +15,103 @@
     "phone_working": "854765",
     "phone_personal": "89647821456"
   }
+][
+  {
+    "name": "Иван",
+    "surname": "Иванович",
+    "family": "Иванов",
+    "employer": "Газпром",
+    "phone_working": "48821",
+    "phone_personal": "89547862145"
+  },
+  {
+    "name": "Петр",
+    "surname": "Васильевич",
+    "family": "Петров",
+    "employer": "ООО Газпром",
+    "phone_working": "854765",
+    "phone_personal": "89647821456"
+  },
+  {
+    "name": "Юлия",
+    "surname": "Владиславовна",
+    "family": "Попова",
+    "employer": "Сбер",
+    "phone_working": "874512",
+    "phone_personal": "87451234595"
+  }
+][
+  {
+    "name": "Иван",
+    "surname": "Иванович",
+    "family": "Иванов",
+    "employer": "Газпром",
+    "phone_working": "48821",
+    "phone_personal": "89547862145"
+  },
+  {
+    "name": "Петр",
+    "surname": "Васильевич",
+    "family": "Петров",
+    "employer": "ООО Газпром",
+    "phone_working": "854765",
+    "phone_personal": "89647821456"
+  },
+  {
+    "name": "Юлия",
+    "surname": "Владиславовна",
+    "family": "Попова",
+    "employer": "Сбер",
+    "phone_working": "874512",
+    "phone_personal": "87451234595"
+  },
+  {
+    "name": "Вадим",
+    "surname": "Аркадьевич",
+    "family": "Шишкин",
+    "employer": "Новые технологии",
+    "phone_working": "743685",
+    "phone_personal": "89541236547"
+  }
+][
+  {
+    "name": "Иван",
+    "surname": "Иванович",
+    "family": "Иванов",
+    "employer": "Газпром",
+    "phone_working": "48821",
+    "phone_personal": "89547862145"
+  },
+  {
+    "name": "Петр",
+    "surname": "Васильевич",
+    "family": "Петров",
+    "employer": "ООО Газпром",
+    "phone_working": "854765",
+    "phone_personal": "89647821456"
+  },
+  {
+    "name": "Юлия",
+    "surname": "Владиславовна",
+    "family": "Попова",
+    "employer": "Сбер",
+    "phone_working": "874512",
+    "phone_personal": "87451234595"
+  },
+  {
+    "name": "Вадим",
+    "surname": "Аркадьевич",
+    "family": "Шишкин",
+    "employer": "Новые технологии",
+    "phone_working": "743685",
+    "phone_personal": "89541236547"
+  },
+  {
+    "name": "Ольга",
+    "surname": "Валерьевна",
+    "family": "Трификова",
+    "employer": "Е-ком",
+    "phone_working": "214597",
+    "phone_personal": "85472369745"
+  }
 ]
