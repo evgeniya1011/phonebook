@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Иван",
+    "surname": "Иванович",
+    "family": "Иванов",
+    "employer": "Газпром",
+    "phone_working": "48821",
+    "phone_personal": "89547862145"
+  },
+  {
+    "name": "Петр",
+    "surname": "Васильевич",
+    "family": "Петров",
+    "employer": "ООО Газпром",
+    "phone_working": "854765",
+    "phone_personal": "89647821456"
+  }
+]
